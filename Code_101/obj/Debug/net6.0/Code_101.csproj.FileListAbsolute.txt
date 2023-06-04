@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\Code_101\bin\Debug\net6.0\Code_101.exe
+C:\Users\Towkir\source\repos\Code_101\Code_101\bin\Debug\net6.0\Code_101.deps.json
+C:\Users\Towkir\source\repos\Code_101\Code_101\bin\Debug\net6.0\Code_101.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\Code_101\bin\Debug\net6.0\Code_101.dll
+C:\Users\Towkir\source\repos\Code_101\Code_101\bin\Debug\net6.0\Code_101.pdb
+C:\Users\Towkir\source\repos\Code_101\Code_101\obj\Debug\net6.0\Code_101.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\Code_101\obj\Debug\net6.0\Code_101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\Code_101\obj\Debug\net6.0\Code_101.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\Code_101\obj\Debug\net6.0\Code_101.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\Code_101\obj\Debug\net6.0\Code_101.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\Code_101\obj\Debug\net6.0\Code_101.dll
+C:\Users\Towkir\source\repos\Code_101\Code_101\obj\Debug\net6.0\refint\Code_101.dll
+C:\Users\Towkir\source\repos\Code_101\Code_101\obj\Debug\net6.0\Code_101.pdb
+C:\Users\Towkir\source\repos\Code_101\Code_101\obj\Debug\net6.0\Code_101.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\Code_101\obj\Debug\net6.0\ref\Code_101.dll
