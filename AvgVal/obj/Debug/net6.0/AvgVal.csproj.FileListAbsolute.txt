@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\AvgVal\bin\Debug\net6.0\AvgVal.exe
+C:\Users\Towkir\source\repos\Code_101\AvgVal\bin\Debug\net6.0\AvgVal.deps.json
+C:\Users\Towkir\source\repos\Code_101\AvgVal\bin\Debug\net6.0\AvgVal.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\AvgVal\bin\Debug\net6.0\AvgVal.dll
+C:\Users\Towkir\source\repos\Code_101\AvgVal\bin\Debug\net6.0\AvgVal.pdb
+C:\Users\Towkir\source\repos\Code_101\AvgVal\obj\Debug\net6.0\AvgVal.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\AvgVal\obj\Debug\net6.0\AvgVal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\AvgVal\obj\Debug\net6.0\AvgVal.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\AvgVal\obj\Debug\net6.0\AvgVal.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\AvgVal\obj\Debug\net6.0\AvgVal.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\AvgVal\obj\Debug\net6.0\AvgVal.dll
+C:\Users\Towkir\source\repos\Code_101\AvgVal\obj\Debug\net6.0\refint\AvgVal.dll
+C:\Users\Towkir\source\repos\Code_101\AvgVal\obj\Debug\net6.0\AvgVal.pdb
+C:\Users\Towkir\source\repos\Code_101\AvgVal\obj\Debug\net6.0\AvgVal.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\AvgVal\obj\Debug\net6.0\ref\AvgVal.dll

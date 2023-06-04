@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\largestNum\bin\Debug\net6.0\largestNum.exe
+C:\Users\Towkir\source\repos\Code_101\largestNum\bin\Debug\net6.0\largestNum.deps.json
+C:\Users\Towkir\source\repos\Code_101\largestNum\bin\Debug\net6.0\largestNum.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\largestNum\bin\Debug\net6.0\largestNum.dll
+C:\Users\Towkir\source\repos\Code_101\largestNum\bin\Debug\net6.0\largestNum.pdb
+C:\Users\Towkir\source\repos\Code_101\largestNum\obj\Debug\net6.0\largestNum.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\largestNum\obj\Debug\net6.0\largestNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\largestNum\obj\Debug\net6.0\largestNum.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\largestNum\obj\Debug\net6.0\largestNum.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\largestNum\obj\Debug\net6.0\largestNum.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\largestNum\obj\Debug\net6.0\largestNum.dll
+C:\Users\Towkir\source\repos\Code_101\largestNum\obj\Debug\net6.0\refint\largestNum.dll
+C:\Users\Towkir\source\repos\Code_101\largestNum\obj\Debug\net6.0\largestNum.pdb
+C:\Users\Towkir\source\repos\Code_101\largestNum\obj\Debug\net6.0\largestNum.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\largestNum\obj\Debug\net6.0\ref\largestNum.dll

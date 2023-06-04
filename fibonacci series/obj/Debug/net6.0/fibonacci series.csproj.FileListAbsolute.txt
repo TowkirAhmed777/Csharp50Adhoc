@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\obj\Debug\net6.0\fibonacci series.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\obj\Debug\net6.0\fibonacci series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\obj\Debug\net6.0\fibonacci series.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\obj\Debug\net6.0\fibonacci series.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\obj\Debug\net6.0\fibonacci series.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\bin\Debug\net6.0\fibonacci series.exe
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\bin\Debug\net6.0\fibonacci series.deps.json
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\bin\Debug\net6.0\fibonacci series.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\bin\Debug\net6.0\fibonacci series.dll
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\bin\Debug\net6.0\fibonacci series.pdb
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\obj\Debug\net6.0\fibonacci series.dll
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\obj\Debug\net6.0\refint\fibonacci series.dll
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\obj\Debug\net6.0\fibonacci series.pdb
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\obj\Debug\net6.0\fibonacci series.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\fibonacci series\obj\Debug\net6.0\ref\fibonacci series.dll

@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\OddEven\bin\Debug\net6.0\OddEven.exe
+C:\Users\Towkir\source\repos\Code_101\OddEven\bin\Debug\net6.0\OddEven.deps.json
+C:\Users\Towkir\source\repos\Code_101\OddEven\bin\Debug\net6.0\OddEven.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\OddEven\bin\Debug\net6.0\OddEven.dll
+C:\Users\Towkir\source\repos\Code_101\OddEven\bin\Debug\net6.0\OddEven.pdb
+C:\Users\Towkir\source\repos\Code_101\OddEven\obj\Debug\net6.0\OddEven.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\OddEven\obj\Debug\net6.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\OddEven\obj\Debug\net6.0\OddEven.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\OddEven\obj\Debug\net6.0\OddEven.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\OddEven\obj\Debug\net6.0\OddEven.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\OddEven\obj\Debug\net6.0\OddEven.dll
+C:\Users\Towkir\source\repos\Code_101\OddEven\obj\Debug\net6.0\refint\OddEven.dll
+C:\Users\Towkir\source\repos\Code_101\OddEven\obj\Debug\net6.0\OddEven.pdb
+C:\Users\Towkir\source\repos\Code_101\OddEven\obj\Debug\net6.0\OddEven.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\OddEven\obj\Debug\net6.0\ref\OddEven.dll

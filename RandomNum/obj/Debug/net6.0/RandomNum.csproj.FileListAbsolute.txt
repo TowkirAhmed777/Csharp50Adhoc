@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\RandomNum\bin\Debug\net6.0\RandomNum.exe
+C:\Users\Towkir\source\repos\Code_101\RandomNum\bin\Debug\net6.0\RandomNum.deps.json
+C:\Users\Towkir\source\repos\Code_101\RandomNum\bin\Debug\net6.0\RandomNum.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\RandomNum\bin\Debug\net6.0\RandomNum.dll
+C:\Users\Towkir\source\repos\Code_101\RandomNum\bin\Debug\net6.0\RandomNum.pdb
+C:\Users\Towkir\source\repos\Code_101\RandomNum\obj\Debug\net6.0\RandomNum.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\RandomNum\obj\Debug\net6.0\RandomNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\RandomNum\obj\Debug\net6.0\RandomNum.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\RandomNum\obj\Debug\net6.0\RandomNum.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\RandomNum\obj\Debug\net6.0\RandomNum.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\RandomNum\obj\Debug\net6.0\RandomNum.dll
+C:\Users\Towkir\source\repos\Code_101\RandomNum\obj\Debug\net6.0\refint\RandomNum.dll
+C:\Users\Towkir\source\repos\Code_101\RandomNum\obj\Debug\net6.0\RandomNum.pdb
+C:\Users\Towkir\source\repos\Code_101\RandomNum\obj\Debug\net6.0\RandomNum.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\RandomNum\obj\Debug\net6.0\ref\RandomNum.dll

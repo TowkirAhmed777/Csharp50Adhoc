@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\Multiple17\bin\Debug\net6.0\Multiple17.exe
+C:\Users\Towkir\source\repos\Code_101\Multiple17\bin\Debug\net6.0\Multiple17.deps.json
+C:\Users\Towkir\source\repos\Code_101\Multiple17\bin\Debug\net6.0\Multiple17.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\Multiple17\bin\Debug\net6.0\Multiple17.dll
+C:\Users\Towkir\source\repos\Code_101\Multiple17\bin\Debug\net6.0\Multiple17.pdb
+C:\Users\Towkir\source\repos\Code_101\Multiple17\obj\Debug\net6.0\Multiple17.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\Multiple17\obj\Debug\net6.0\Multiple17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\Multiple17\obj\Debug\net6.0\Multiple17.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\Multiple17\obj\Debug\net6.0\Multiple17.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\Multiple17\obj\Debug\net6.0\Multiple17.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\Multiple17\obj\Debug\net6.0\Multiple17.dll
+C:\Users\Towkir\source\repos\Code_101\Multiple17\obj\Debug\net6.0\refint\Multiple17.dll
+C:\Users\Towkir\source\repos\Code_101\Multiple17\obj\Debug\net6.0\Multiple17.pdb
+C:\Users\Towkir\source\repos\Code_101\Multiple17\obj\Debug\net6.0\Multiple17.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\Multiple17\obj\Debug\net6.0\ref\Multiple17.dll

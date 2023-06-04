@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\bin\Debug\net6.0\ReverseNum.exe
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\bin\Debug\net6.0\ReverseNum.deps.json
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\bin\Debug\net6.0\ReverseNum.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\bin\Debug\net6.0\ReverseNum.dll
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\bin\Debug\net6.0\ReverseNum.pdb
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\obj\Debug\net6.0\ReverseNum.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\obj\Debug\net6.0\ReverseNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\obj\Debug\net6.0\ReverseNum.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\obj\Debug\net6.0\ReverseNum.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\obj\Debug\net6.0\ReverseNum.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\obj\Debug\net6.0\ReverseNum.dll
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\obj\Debug\net6.0\refint\ReverseNum.dll
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\obj\Debug\net6.0\ReverseNum.pdb
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\obj\Debug\net6.0\ReverseNum.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\ReverseNum\obj\Debug\net6.0\ref\ReverseNum.dll

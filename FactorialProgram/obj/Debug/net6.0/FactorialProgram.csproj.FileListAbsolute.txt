@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\bin\Debug\net6.0\FactorialProgram.exe
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\bin\Debug\net6.0\FactorialProgram.deps.json
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\bin\Debug\net6.0\FactorialProgram.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\bin\Debug\net6.0\FactorialProgram.dll
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\bin\Debug\net6.0\FactorialProgram.pdb
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\obj\Debug\net6.0\FactorialProgram.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\obj\Debug\net6.0\FactorialProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\obj\Debug\net6.0\FactorialProgram.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\obj\Debug\net6.0\FactorialProgram.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\obj\Debug\net6.0\FactorialProgram.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\obj\Debug\net6.0\FactorialProgram.dll
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\obj\Debug\net6.0\refint\FactorialProgram.dll
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\obj\Debug\net6.0\FactorialProgram.pdb
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\obj\Debug\net6.0\FactorialProgram.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\FactorialProgram\obj\Debug\net6.0\ref\FactorialProgram.dll

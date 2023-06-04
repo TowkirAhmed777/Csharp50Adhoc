@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\bin\Debug\net6.0\sumOfdigitProgramNum.exe
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\bin\Debug\net6.0\sumOfdigitProgramNum.deps.json
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\bin\Debug\net6.0\sumOfdigitProgramNum.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\bin\Debug\net6.0\sumOfdigitProgramNum.dll
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\bin\Debug\net6.0\sumOfdigitProgramNum.pdb
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\obj\Debug\net6.0\sumOfdigitProgramNum.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\obj\Debug\net6.0\sumOfdigitProgramNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\obj\Debug\net6.0\sumOfdigitProgramNum.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\obj\Debug\net6.0\sumOfdigitProgramNum.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\obj\Debug\net6.0\sumOfdigitProgramNum.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\obj\Debug\net6.0\sumOfdigitProgramNum.dll
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\obj\Debug\net6.0\refint\sumOfdigitProgramNum.dll
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\obj\Debug\net6.0\sumOfdigitProgramNum.pdb
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\obj\Debug\net6.0\sumOfdigitProgramNum.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\sumOfdigitProgramNum\obj\Debug\net6.0\ref\sumOfdigitProgramNum.dll

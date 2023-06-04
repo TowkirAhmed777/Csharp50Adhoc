@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\UserInput\bin\Debug\net6.0\UserInput.exe
+C:\Users\Towkir\source\repos\Code_101\UserInput\bin\Debug\net6.0\UserInput.deps.json
+C:\Users\Towkir\source\repos\Code_101\UserInput\bin\Debug\net6.0\UserInput.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\UserInput\bin\Debug\net6.0\UserInput.dll
+C:\Users\Towkir\source\repos\Code_101\UserInput\bin\Debug\net6.0\UserInput.pdb
+C:\Users\Towkir\source\repos\Code_101\UserInput\obj\Debug\net6.0\UserInput.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\UserInput\obj\Debug\net6.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\UserInput\obj\Debug\net6.0\UserInput.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\UserInput\obj\Debug\net6.0\UserInput.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\UserInput\obj\Debug\net6.0\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\UserInput\obj\Debug\net6.0\UserInput.dll
+C:\Users\Towkir\source\repos\Code_101\UserInput\obj\Debug\net6.0\refint\UserInput.dll
+C:\Users\Towkir\source\repos\Code_101\UserInput\obj\Debug\net6.0\UserInput.pdb
+C:\Users\Towkir\source\repos\Code_101\UserInput\obj\Debug\net6.0\UserInput.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\UserInput\obj\Debug\net6.0\ref\UserInput.dll

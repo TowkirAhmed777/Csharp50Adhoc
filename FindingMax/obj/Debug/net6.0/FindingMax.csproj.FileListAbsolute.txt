@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\FindingMax\obj\Debug\net6.0\FindingMax.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\FindingMax\obj\Debug\net6.0\FindingMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\FindingMax\obj\Debug\net6.0\FindingMax.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\FindingMax\obj\Debug\net6.0\FindingMax.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\FindingMax\obj\Debug\net6.0\FindingMax.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\FindingMax\bin\Debug\net6.0\FindingMax.exe
+C:\Users\Towkir\source\repos\Code_101\FindingMax\bin\Debug\net6.0\FindingMax.deps.json
+C:\Users\Towkir\source\repos\Code_101\FindingMax\bin\Debug\net6.0\FindingMax.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\FindingMax\bin\Debug\net6.0\FindingMax.dll
+C:\Users\Towkir\source\repos\Code_101\FindingMax\bin\Debug\net6.0\FindingMax.pdb
+C:\Users\Towkir\source\repos\Code_101\FindingMax\obj\Debug\net6.0\FindingMax.dll
+C:\Users\Towkir\source\repos\Code_101\FindingMax\obj\Debug\net6.0\refint\FindingMax.dll
+C:\Users\Towkir\source\repos\Code_101\FindingMax\obj\Debug\net6.0\FindingMax.pdb
+C:\Users\Towkir\source\repos\Code_101\FindingMax\obj\Debug\net6.0\FindingMax.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\FindingMax\obj\Debug\net6.0\ref\FindingMax.dll

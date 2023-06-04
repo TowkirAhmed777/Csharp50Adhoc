@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\bin\Debug\net6.0\PositiveNum.exe
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\bin\Debug\net6.0\PositiveNum.deps.json
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\bin\Debug\net6.0\PositiveNum.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\bin\Debug\net6.0\PositiveNum.dll
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\bin\Debug\net6.0\PositiveNum.pdb
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\obj\Debug\net6.0\PositiveNum.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\obj\Debug\net6.0\PositiveNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\obj\Debug\net6.0\PositiveNum.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\obj\Debug\net6.0\PositiveNum.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\obj\Debug\net6.0\PositiveNum.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\obj\Debug\net6.0\PositiveNum.dll
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\obj\Debug\net6.0\refint\PositiveNum.dll
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\obj\Debug\net6.0\PositiveNum.pdb
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\obj\Debug\net6.0\PositiveNum.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\PositiveNum\obj\Debug\net6.0\ref\PositiveNum.dll

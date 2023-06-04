@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\bin\Debug\net6.0\DivisBy2.exe
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\bin\Debug\net6.0\DivisBy2.deps.json
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\bin\Debug\net6.0\DivisBy2.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\bin\Debug\net6.0\DivisBy2.dll
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\bin\Debug\net6.0\DivisBy2.pdb
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\obj\Debug\net6.0\DivisBy2.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\obj\Debug\net6.0\DivisBy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\obj\Debug\net6.0\DivisBy2.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\obj\Debug\net6.0\DivisBy2.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\obj\Debug\net6.0\DivisBy2.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\obj\Debug\net6.0\DivisBy2.dll
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\obj\Debug\net6.0\refint\DivisBy2.dll
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\obj\Debug\net6.0\DivisBy2.pdb
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\obj\Debug\net6.0\DivisBy2.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\DivisBy2\obj\Debug\net6.0\ref\DivisBy2.dll

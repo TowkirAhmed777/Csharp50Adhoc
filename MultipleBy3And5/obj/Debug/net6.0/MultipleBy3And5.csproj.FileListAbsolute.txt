@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\bin\Debug\net6.0\MultipleBy3And5.exe
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\bin\Debug\net6.0\MultipleBy3And5.deps.json
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\bin\Debug\net6.0\MultipleBy3And5.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\bin\Debug\net6.0\MultipleBy3And5.dll
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\bin\Debug\net6.0\MultipleBy3And5.pdb
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\obj\Debug\net6.0\MultipleBy3And5.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\obj\Debug\net6.0\MultipleBy3And5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\obj\Debug\net6.0\MultipleBy3And5.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\obj\Debug\net6.0\MultipleBy3And5.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\obj\Debug\net6.0\MultipleBy3And5.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\obj\Debug\net6.0\MultipleBy3And5.dll
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\obj\Debug\net6.0\refint\MultipleBy3And5.dll
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\obj\Debug\net6.0\MultipleBy3And5.pdb
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\obj\Debug\net6.0\MultipleBy3And5.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\MultipleBy3And5\obj\Debug\net6.0\ref\MultipleBy3And5.dll

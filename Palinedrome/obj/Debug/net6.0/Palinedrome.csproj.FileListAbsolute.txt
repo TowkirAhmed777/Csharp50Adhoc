@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\bin\Debug\net6.0\Palinedrome.exe
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\bin\Debug\net6.0\Palinedrome.deps.json
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\bin\Debug\net6.0\Palinedrome.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\bin\Debug\net6.0\Palinedrome.dll
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\bin\Debug\net6.0\Palinedrome.pdb
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\obj\Debug\net6.0\Palinedrome.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\obj\Debug\net6.0\Palinedrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\obj\Debug\net6.0\Palinedrome.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\obj\Debug\net6.0\Palinedrome.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\obj\Debug\net6.0\Palinedrome.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\obj\Debug\net6.0\Palinedrome.dll
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\obj\Debug\net6.0\refint\Palinedrome.dll
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\obj\Debug\net6.0\Palinedrome.pdb
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\obj\Debug\net6.0\Palinedrome.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\Palinedrome\obj\Debug\net6.0\ref\Palinedrome.dll
