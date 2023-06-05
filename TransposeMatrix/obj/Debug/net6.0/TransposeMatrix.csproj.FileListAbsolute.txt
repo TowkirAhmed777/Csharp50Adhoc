@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\bin\Debug\net6.0\TransposeMatrix.exe
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\bin\Debug\net6.0\TransposeMatrix.deps.json
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\bin\Debug\net6.0\TransposeMatrix.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\bin\Debug\net6.0\TransposeMatrix.dll
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\bin\Debug\net6.0\TransposeMatrix.pdb
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\obj\Debug\net6.0\TransposeMatrix.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\obj\Debug\net6.0\TransposeMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\obj\Debug\net6.0\TransposeMatrix.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\obj\Debug\net6.0\TransposeMatrix.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\obj\Debug\net6.0\TransposeMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\obj\Debug\net6.0\TransposeMatrix.dll
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\obj\Debug\net6.0\refint\TransposeMatrix.dll
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\obj\Debug\net6.0\TransposeMatrix.pdb
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\obj\Debug\net6.0\TransposeMatrix.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\TransposeMatrix\obj\Debug\net6.0\ref\TransposeMatrix.dll

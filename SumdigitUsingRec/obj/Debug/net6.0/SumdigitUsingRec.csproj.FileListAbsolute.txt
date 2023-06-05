@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\obj\Debug\net6.0\SumdigitUsingRec.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\obj\Debug\net6.0\SumdigitUsingRec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\obj\Debug\net6.0\SumdigitUsingRec.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\obj\Debug\net6.0\SumdigitUsingRec.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\obj\Debug\net6.0\SumdigitUsingRec.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\bin\Debug\net6.0\SumdigitUsingRec.exe
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\bin\Debug\net6.0\SumdigitUsingRec.deps.json
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\bin\Debug\net6.0\SumdigitUsingRec.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\bin\Debug\net6.0\SumdigitUsingRec.dll
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\bin\Debug\net6.0\SumdigitUsingRec.pdb
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\obj\Debug\net6.0\SumdigitUsingRec.dll
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\obj\Debug\net6.0\refint\SumdigitUsingRec.dll
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\obj\Debug\net6.0\SumdigitUsingRec.pdb
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\obj\Debug\net6.0\SumdigitUsingRec.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\SumdigitUsingRec\obj\Debug\net6.0\ref\SumdigitUsingRec.dll

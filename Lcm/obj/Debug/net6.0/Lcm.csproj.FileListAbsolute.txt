@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\Lcm\bin\Debug\net6.0\Lcm.exe
+C:\Users\Towkir\source\repos\Code_101\Lcm\bin\Debug\net6.0\Lcm.deps.json
+C:\Users\Towkir\source\repos\Code_101\Lcm\bin\Debug\net6.0\Lcm.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\Lcm\bin\Debug\net6.0\Lcm.dll
+C:\Users\Towkir\source\repos\Code_101\Lcm\bin\Debug\net6.0\Lcm.pdb
+C:\Users\Towkir\source\repos\Code_101\Lcm\obj\Debug\net6.0\Lcm.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\Lcm\obj\Debug\net6.0\Lcm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\Lcm\obj\Debug\net6.0\Lcm.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\Lcm\obj\Debug\net6.0\Lcm.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\Lcm\obj\Debug\net6.0\Lcm.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\Lcm\obj\Debug\net6.0\Lcm.dll
+C:\Users\Towkir\source\repos\Code_101\Lcm\obj\Debug\net6.0\refint\Lcm.dll
+C:\Users\Towkir\source\repos\Code_101\Lcm\obj\Debug\net6.0\Lcm.pdb
+C:\Users\Towkir\source\repos\Code_101\Lcm\obj\Debug\net6.0\Lcm.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\Lcm\obj\Debug\net6.0\ref\Lcm.dll

@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\bin\Debug\net6.0\ArithmaticOperator.exe
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\bin\Debug\net6.0\ArithmaticOperator.deps.json
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\bin\Debug\net6.0\ArithmaticOperator.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\bin\Debug\net6.0\ArithmaticOperator.dll
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\bin\Debug\net6.0\ArithmaticOperator.pdb
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\obj\Debug\net6.0\ArithmaticOperator.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\obj\Debug\net6.0\ArithmaticOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\obj\Debug\net6.0\ArithmaticOperator.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\obj\Debug\net6.0\ArithmaticOperator.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\obj\Debug\net6.0\ArithmaticOperator.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\obj\Debug\net6.0\ArithmaticOperator.dll
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\obj\Debug\net6.0\refint\ArithmaticOperator.dll
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\obj\Debug\net6.0\ArithmaticOperator.pdb
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\obj\Debug\net6.0\ArithmaticOperator.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\ArithmaticOperator\obj\Debug\net6.0\ref\ArithmaticOperator.dll

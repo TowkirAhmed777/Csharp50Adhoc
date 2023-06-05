@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\bin\Debug\net6.0\ArmstrongNum.exe
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\bin\Debug\net6.0\ArmstrongNum.deps.json
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\bin\Debug\net6.0\ArmstrongNum.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\bin\Debug\net6.0\ArmstrongNum.dll
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\bin\Debug\net6.0\ArmstrongNum.pdb
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\obj\Debug\net6.0\ArmstrongNum.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\obj\Debug\net6.0\ArmstrongNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\obj\Debug\net6.0\ArmstrongNum.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\obj\Debug\net6.0\ArmstrongNum.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\obj\Debug\net6.0\ArmstrongNum.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\obj\Debug\net6.0\ArmstrongNum.dll
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\obj\Debug\net6.0\refint\ArmstrongNum.dll
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\obj\Debug\net6.0\ArmstrongNum.pdb
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\obj\Debug\net6.0\ArmstrongNum.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\ArmstrongNum\obj\Debug\net6.0\ref\ArmstrongNum.dll

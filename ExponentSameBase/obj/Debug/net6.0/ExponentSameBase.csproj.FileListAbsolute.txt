@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\bin\Debug\net6.0\ExponentSameBase.exe
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\bin\Debug\net6.0\ExponentSameBase.deps.json
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\bin\Debug\net6.0\ExponentSameBase.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\bin\Debug\net6.0\ExponentSameBase.dll
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\bin\Debug\net6.0\ExponentSameBase.pdb
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\obj\Debug\net6.0\ExponentSameBase.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\obj\Debug\net6.0\ExponentSameBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\obj\Debug\net6.0\ExponentSameBase.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\obj\Debug\net6.0\ExponentSameBase.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\obj\Debug\net6.0\ExponentSameBase.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\obj\Debug\net6.0\ExponentSameBase.dll
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\obj\Debug\net6.0\refint\ExponentSameBase.dll
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\obj\Debug\net6.0\ExponentSameBase.pdb
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\obj\Debug\net6.0\ExponentSameBase.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\ExponentSameBase\obj\Debug\net6.0\ref\ExponentSameBase.dll

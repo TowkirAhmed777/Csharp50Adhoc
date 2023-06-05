@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\Height\obj\Debug\net6.0\Height.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\Height\obj\Debug\net6.0\Height.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\Height\obj\Debug\net6.0\Height.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\Height\obj\Debug\net6.0\Height.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\Height\obj\Debug\net6.0\Height.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\Height\bin\Debug\net6.0\Height.exe
+C:\Users\Towkir\source\repos\Code_101\Height\bin\Debug\net6.0\Height.deps.json
+C:\Users\Towkir\source\repos\Code_101\Height\bin\Debug\net6.0\Height.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\Height\bin\Debug\net6.0\Height.dll
+C:\Users\Towkir\source\repos\Code_101\Height\bin\Debug\net6.0\Height.pdb
+C:\Users\Towkir\source\repos\Code_101\Height\obj\Debug\net6.0\Height.dll
+C:\Users\Towkir\source\repos\Code_101\Height\obj\Debug\net6.0\refint\Height.dll
+C:\Users\Towkir\source\repos\Code_101\Height\obj\Debug\net6.0\Height.pdb
+C:\Users\Towkir\source\repos\Code_101\Height\obj\Debug\net6.0\Height.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\Height\obj\Debug\net6.0\ref\Height.dll

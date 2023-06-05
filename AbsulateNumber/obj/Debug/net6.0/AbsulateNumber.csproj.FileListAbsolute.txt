@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\bin\Debug\net6.0\AbsulateNumber.exe
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\bin\Debug\net6.0\AbsulateNumber.deps.json
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\bin\Debug\net6.0\AbsulateNumber.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\bin\Debug\net6.0\AbsulateNumber.dll
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\bin\Debug\net6.0\AbsulateNumber.pdb
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\obj\Debug\net6.0\AbsulateNumber.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\obj\Debug\net6.0\AbsulateNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\obj\Debug\net6.0\AbsulateNumber.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\obj\Debug\net6.0\AbsulateNumber.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\obj\Debug\net6.0\AbsulateNumber.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\obj\Debug\net6.0\AbsulateNumber.dll
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\obj\Debug\net6.0\refint\AbsulateNumber.dll
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\obj\Debug\net6.0\AbsulateNumber.pdb
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\obj\Debug\net6.0\AbsulateNumber.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\AbsulateNumber\obj\Debug\net6.0\ref\AbsulateNumber.dll

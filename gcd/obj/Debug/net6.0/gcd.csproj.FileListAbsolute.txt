@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\gcd\bin\Debug\net6.0\gcd.exe
+C:\Users\Towkir\source\repos\Code_101\gcd\bin\Debug\net6.0\gcd.deps.json
+C:\Users\Towkir\source\repos\Code_101\gcd\bin\Debug\net6.0\gcd.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\gcd\bin\Debug\net6.0\gcd.dll
+C:\Users\Towkir\source\repos\Code_101\gcd\bin\Debug\net6.0\gcd.pdb
+C:\Users\Towkir\source\repos\Code_101\gcd\obj\Debug\net6.0\gcd.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\gcd\obj\Debug\net6.0\gcd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\gcd\obj\Debug\net6.0\gcd.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\gcd\obj\Debug\net6.0\gcd.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\gcd\obj\Debug\net6.0\gcd.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\gcd\obj\Debug\net6.0\gcd.dll
+C:\Users\Towkir\source\repos\Code_101\gcd\obj\Debug\net6.0\refint\gcd.dll
+C:\Users\Towkir\source\repos\Code_101\gcd\obj\Debug\net6.0\gcd.pdb
+C:\Users\Towkir\source\repos\Code_101\gcd\obj\Debug\net6.0\gcd.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\gcd\obj\Debug\net6.0\ref\gcd.dll

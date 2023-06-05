@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculateFractionalPower/1.0.0": {
+        "runtime": {
+          "CalculateFractionalPower.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculateFractionalPower/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

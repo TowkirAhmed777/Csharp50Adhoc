@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\bin\Debug\net6.0\SumOfNnumbers.exe
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\bin\Debug\net6.0\SumOfNnumbers.deps.json
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\bin\Debug\net6.0\SumOfNnumbers.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\bin\Debug\net6.0\SumOfNnumbers.dll
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\bin\Debug\net6.0\SumOfNnumbers.pdb
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\obj\Debug\net6.0\SumOfNnumbers.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\obj\Debug\net6.0\SumOfNnumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\obj\Debug\net6.0\SumOfNnumbers.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\obj\Debug\net6.0\SumOfNnumbers.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\obj\Debug\net6.0\SumOfNnumbers.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\obj\Debug\net6.0\SumOfNnumbers.dll
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\obj\Debug\net6.0\refint\SumOfNnumbers.dll
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\obj\Debug\net6.0\SumOfNnumbers.pdb
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\obj\Debug\net6.0\SumOfNnumbers.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\SumOfNnumbers\obj\Debug\net6.0\ref\SumOfNnumbers.dll

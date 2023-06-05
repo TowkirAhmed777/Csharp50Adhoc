@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\bin\Debug\net6.0\ConvertCharac.exe
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\bin\Debug\net6.0\ConvertCharac.deps.json
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\bin\Debug\net6.0\ConvertCharac.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\bin\Debug\net6.0\ConvertCharac.dll
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\bin\Debug\net6.0\ConvertCharac.pdb
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\obj\Debug\net6.0\ConvertCharac.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\obj\Debug\net6.0\ConvertCharac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\obj\Debug\net6.0\ConvertCharac.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\obj\Debug\net6.0\ConvertCharac.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\obj\Debug\net6.0\ConvertCharac.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\obj\Debug\net6.0\ConvertCharac.dll
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\obj\Debug\net6.0\refint\ConvertCharac.dll
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\obj\Debug\net6.0\ConvertCharac.pdb
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\obj\Debug\net6.0\ConvertCharac.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\ConvertCharac\obj\Debug\net6.0\ref\ConvertCharac.dll

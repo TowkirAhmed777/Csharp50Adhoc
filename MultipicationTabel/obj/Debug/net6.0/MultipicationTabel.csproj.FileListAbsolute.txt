@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\obj\Debug\net6.0\MultipicationTabel.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\obj\Debug\net6.0\MultipicationTabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\obj\Debug\net6.0\MultipicationTabel.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\obj\Debug\net6.0\MultipicationTabel.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\obj\Debug\net6.0\MultipicationTabel.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\bin\Debug\net6.0\MultipicationTabel.exe
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\bin\Debug\net6.0\MultipicationTabel.deps.json
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\bin\Debug\net6.0\MultipicationTabel.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\bin\Debug\net6.0\MultipicationTabel.dll
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\bin\Debug\net6.0\MultipicationTabel.pdb
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\obj\Debug\net6.0\MultipicationTabel.dll
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\obj\Debug\net6.0\refint\MultipicationTabel.dll
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\obj\Debug\net6.0\MultipicationTabel.pdb
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\obj\Debug\net6.0\MultipicationTabel.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\MultipicationTabel\obj\Debug\net6.0\ref\MultipicationTabel.dll

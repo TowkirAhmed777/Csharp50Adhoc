@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\bin\Debug\net6.0\GenarateRandomNumbers.exe
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\bin\Debug\net6.0\GenarateRandomNumbers.deps.json
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\bin\Debug\net6.0\GenarateRandomNumbers.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\bin\Debug\net6.0\GenarateRandomNumbers.dll
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\bin\Debug\net6.0\GenarateRandomNumbers.pdb
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\obj\Debug\net6.0\GenarateRandomNumbers.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\obj\Debug\net6.0\GenarateRandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\obj\Debug\net6.0\GenarateRandomNumbers.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\obj\Debug\net6.0\GenarateRandomNumbers.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\obj\Debug\net6.0\GenarateRandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\obj\Debug\net6.0\GenarateRandomNumbers.dll
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\obj\Debug\net6.0\refint\GenarateRandomNumbers.dll
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\obj\Debug\net6.0\GenarateRandomNumbers.pdb
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\obj\Debug\net6.0\GenarateRandomNumbers.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\GenarateRandomNumbers\obj\Debug\net6.0\ref\GenarateRandomNumbers.dll

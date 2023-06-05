@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\grade\bin\Debug\net6.0\grade.exe
+C:\Users\Towkir\source\repos\Code_101\grade\bin\Debug\net6.0\grade.deps.json
+C:\Users\Towkir\source\repos\Code_101\grade\bin\Debug\net6.0\grade.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\grade\bin\Debug\net6.0\grade.dll
+C:\Users\Towkir\source\repos\Code_101\grade\bin\Debug\net6.0\grade.pdb
+C:\Users\Towkir\source\repos\Code_101\grade\obj\Debug\net6.0\grade.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\grade\obj\Debug\net6.0\grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\grade\obj\Debug\net6.0\grade.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\grade\obj\Debug\net6.0\grade.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\grade\obj\Debug\net6.0\grade.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\grade\obj\Debug\net6.0\grade.dll
+C:\Users\Towkir\source\repos\Code_101\grade\obj\Debug\net6.0\refint\grade.dll
+C:\Users\Towkir\source\repos\Code_101\grade\obj\Debug\net6.0\grade.pdb
+C:\Users\Towkir\source\repos\Code_101\grade\obj\Debug\net6.0\grade.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\grade\obj\Debug\net6.0\ref\grade.dll

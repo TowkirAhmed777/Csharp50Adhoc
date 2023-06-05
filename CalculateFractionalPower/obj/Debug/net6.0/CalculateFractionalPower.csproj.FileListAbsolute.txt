@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\bin\Debug\net6.0\CalculateFractionalPower.exe
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\bin\Debug\net6.0\CalculateFractionalPower.deps.json
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\bin\Debug\net6.0\CalculateFractionalPower.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\bin\Debug\net6.0\CalculateFractionalPower.dll
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\bin\Debug\net6.0\CalculateFractionalPower.pdb
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\obj\Debug\net6.0\CalculateFractionalPower.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\obj\Debug\net6.0\CalculateFractionalPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\obj\Debug\net6.0\CalculateFractionalPower.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\obj\Debug\net6.0\CalculateFractionalPower.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\obj\Debug\net6.0\CalculateFractionalPower.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\obj\Debug\net6.0\CalculateFractionalPower.dll
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\obj\Debug\net6.0\refint\CalculateFractionalPower.dll
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\obj\Debug\net6.0\CalculateFractionalPower.pdb
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\obj\Debug\net6.0\CalculateFractionalPower.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\CalculateFractionalPower\obj\Debug\net6.0\ref\CalculateFractionalPower.dll

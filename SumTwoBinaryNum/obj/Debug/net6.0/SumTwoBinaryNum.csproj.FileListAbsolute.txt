@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\bin\Debug\net6.0\SumTwoBinaryNum.exe
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\bin\Debug\net6.0\SumTwoBinaryNum.deps.json
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\bin\Debug\net6.0\SumTwoBinaryNum.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\bin\Debug\net6.0\SumTwoBinaryNum.dll
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\bin\Debug\net6.0\SumTwoBinaryNum.pdb
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\obj\Debug\net6.0\SumTwoBinaryNum.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\obj\Debug\net6.0\SumTwoBinaryNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\obj\Debug\net6.0\SumTwoBinaryNum.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\obj\Debug\net6.0\SumTwoBinaryNum.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\obj\Debug\net6.0\SumTwoBinaryNum.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\obj\Debug\net6.0\SumTwoBinaryNum.dll
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\obj\Debug\net6.0\refint\SumTwoBinaryNum.dll
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\obj\Debug\net6.0\SumTwoBinaryNum.pdb
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\obj\Debug\net6.0\SumTwoBinaryNum.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\SumTwoBinaryNum\obj\Debug\net6.0\ref\SumTwoBinaryNum.dll

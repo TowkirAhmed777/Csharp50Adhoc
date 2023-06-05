@@ -1,0 +1,5 @@
+C:\Users\Towkir\source\repos\Code_101\MultipleTwoBinaryNumber\obj\Debug\net6.0\MultipleTwoBinaryNumber.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\MultipleTwoBinaryNumber\obj\Debug\net6.0\MultipleTwoBinaryNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\MultipleTwoBinaryNumber\obj\Debug\net6.0\MultipleTwoBinaryNumber.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\MultipleTwoBinaryNumber\obj\Debug\net6.0\MultipleTwoBinaryNumber.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\MultipleTwoBinaryNumber\obj\Debug\net6.0\MultipleTwoBinaryNumber.csproj.CoreCompileInputs.cache

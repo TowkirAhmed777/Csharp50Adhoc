@@ -1,0 +1,5 @@
+C:\Users\Towkir\source\repos\Code_101\AddTwoComplexNumber\obj\Debug\net6.0\AddTwoComplexNumber.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\AddTwoComplexNumber\obj\Debug\net6.0\AddTwoComplexNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\AddTwoComplexNumber\obj\Debug\net6.0\AddTwoComplexNumber.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\AddTwoComplexNumber\obj\Debug\net6.0\AddTwoComplexNumber.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\AddTwoComplexNumber\obj\Debug\net6.0\AddTwoComplexNumber.csproj.CoreCompileInputs.cache

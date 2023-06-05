@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\bin\Debug\net6.0\intgerUsingRecursion.exe
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\bin\Debug\net6.0\intgerUsingRecursion.deps.json
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\bin\Debug\net6.0\intgerUsingRecursion.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\bin\Debug\net6.0\intgerUsingRecursion.dll
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\bin\Debug\net6.0\intgerUsingRecursion.pdb
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\obj\Debug\net6.0\intgerUsingRecursion.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\obj\Debug\net6.0\intgerUsingRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\obj\Debug\net6.0\intgerUsingRecursion.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\obj\Debug\net6.0\intgerUsingRecursion.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\obj\Debug\net6.0\intgerUsingRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\obj\Debug\net6.0\intgerUsingRecursion.dll
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\obj\Debug\net6.0\refint\intgerUsingRecursion.dll
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\obj\Debug\net6.0\intgerUsingRecursion.pdb
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\obj\Debug\net6.0\intgerUsingRecursion.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\intgerUsingRecursion\obj\Debug\net6.0\ref\intgerUsingRecursion.dll

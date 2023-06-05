@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\bin\Debug\net6.0\LargestPrimeFactor.exe
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\bin\Debug\net6.0\LargestPrimeFactor.deps.json
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\bin\Debug\net6.0\LargestPrimeFactor.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\bin\Debug\net6.0\LargestPrimeFactor.dll
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\bin\Debug\net6.0\LargestPrimeFactor.pdb
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\obj\Debug\net6.0\LargestPrimeFactor.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\obj\Debug\net6.0\LargestPrimeFactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\obj\Debug\net6.0\LargestPrimeFactor.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\obj\Debug\net6.0\LargestPrimeFactor.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\obj\Debug\net6.0\LargestPrimeFactor.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\obj\Debug\net6.0\LargestPrimeFactor.dll
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\obj\Debug\net6.0\refint\LargestPrimeFactor.dll
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\obj\Debug\net6.0\LargestPrimeFactor.pdb
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\obj\Debug\net6.0\LargestPrimeFactor.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\LargestPrimeFactor\obj\Debug\net6.0\ref\LargestPrimeFactor.dll

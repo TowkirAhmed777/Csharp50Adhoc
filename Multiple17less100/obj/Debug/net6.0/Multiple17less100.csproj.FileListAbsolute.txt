@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\bin\Debug\net6.0\Multiple17less100.exe
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\bin\Debug\net6.0\Multiple17less100.deps.json
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\bin\Debug\net6.0\Multiple17less100.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\bin\Debug\net6.0\Multiple17less100.dll
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\bin\Debug\net6.0\Multiple17less100.pdb
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\obj\Debug\net6.0\Multiple17less100.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\obj\Debug\net6.0\Multiple17less100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\obj\Debug\net6.0\Multiple17less100.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\obj\Debug\net6.0\Multiple17less100.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\obj\Debug\net6.0\Multiple17less100.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\obj\Debug\net6.0\Multiple17less100.dll
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\obj\Debug\net6.0\refint\Multiple17less100.dll
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\obj\Debug\net6.0\Multiple17less100.pdb
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\obj\Debug\net6.0\Multiple17less100.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\Multiple17less100\obj\Debug\net6.0\ref\Multiple17less100.dll

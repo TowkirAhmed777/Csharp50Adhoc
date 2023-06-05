@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\bin\Debug\net6.0\SumNaturalNumber.exe
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\bin\Debug\net6.0\SumNaturalNumber.deps.json
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\bin\Debug\net6.0\SumNaturalNumber.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\bin\Debug\net6.0\SumNaturalNumber.dll
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\bin\Debug\net6.0\SumNaturalNumber.pdb
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\obj\Debug\net6.0\SumNaturalNumber.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\obj\Debug\net6.0\SumNaturalNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\obj\Debug\net6.0\SumNaturalNumber.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\obj\Debug\net6.0\SumNaturalNumber.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\obj\Debug\net6.0\SumNaturalNumber.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\obj\Debug\net6.0\SumNaturalNumber.dll
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\obj\Debug\net6.0\refint\SumNaturalNumber.dll
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\obj\Debug\net6.0\SumNaturalNumber.pdb
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\obj\Debug\net6.0\SumNaturalNumber.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\SumNaturalNumber\obj\Debug\net6.0\ref\SumNaturalNumber.dll

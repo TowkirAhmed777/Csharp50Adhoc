@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\bin\Debug\net6.0\ArmstrongnumBetween100.exe
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\bin\Debug\net6.0\ArmstrongnumBetween100.deps.json
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\bin\Debug\net6.0\ArmstrongnumBetween100.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\bin\Debug\net6.0\ArmstrongnumBetween100.dll
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\bin\Debug\net6.0\ArmstrongnumBetween100.pdb
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\obj\Debug\net6.0\ArmstrongnumBetween100.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\obj\Debug\net6.0\ArmstrongnumBetween100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\obj\Debug\net6.0\ArmstrongnumBetween100.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\obj\Debug\net6.0\ArmstrongnumBetween100.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\obj\Debug\net6.0\ArmstrongnumBetween100.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\obj\Debug\net6.0\ArmstrongnumBetween100.dll
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\obj\Debug\net6.0\refint\ArmstrongnumBetween100.dll
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\obj\Debug\net6.0\ArmstrongnumBetween100.pdb
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\obj\Debug\net6.0\ArmstrongnumBetween100.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\ArmstrongnumBetween100\obj\Debug\net6.0\ref\ArmstrongnumBetween100.dll

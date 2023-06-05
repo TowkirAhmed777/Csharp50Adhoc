@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\bin\Debug\net6.0\PrimeNumberBetween100.exe
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\bin\Debug\net6.0\PrimeNumberBetween100.deps.json
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\bin\Debug\net6.0\PrimeNumberBetween100.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\bin\Debug\net6.0\PrimeNumberBetween100.dll
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\bin\Debug\net6.0\PrimeNumberBetween100.pdb
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\obj\Debug\net6.0\PrimeNumberBetween100.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\obj\Debug\net6.0\PrimeNumberBetween100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\obj\Debug\net6.0\PrimeNumberBetween100.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\obj\Debug\net6.0\PrimeNumberBetween100.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\obj\Debug\net6.0\PrimeNumberBetween100.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\obj\Debug\net6.0\PrimeNumberBetween100.dll
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\obj\Debug\net6.0\refint\PrimeNumberBetween100.dll
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\obj\Debug\net6.0\PrimeNumberBetween100.pdb
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\obj\Debug\net6.0\PrimeNumberBetween100.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\PrimeNumberBetween100\obj\Debug\net6.0\ref\PrimeNumberBetween100.dll

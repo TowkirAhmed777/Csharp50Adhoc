@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\bin\Debug\net6.0\AmicableNumber.exe
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\bin\Debug\net6.0\AmicableNumber.deps.json
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\bin\Debug\net6.0\AmicableNumber.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\bin\Debug\net6.0\AmicableNumber.dll
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\bin\Debug\net6.0\AmicableNumber.pdb
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\obj\Debug\net6.0\AmicableNumber.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\obj\Debug\net6.0\AmicableNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\obj\Debug\net6.0\AmicableNumber.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\obj\Debug\net6.0\AmicableNumber.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\obj\Debug\net6.0\AmicableNumber.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\obj\Debug\net6.0\AmicableNumber.dll
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\obj\Debug\net6.0\refint\AmicableNumber.dll
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\obj\Debug\net6.0\AmicableNumber.pdb
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\obj\Debug\net6.0\AmicableNumber.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\AmicableNumber\obj\Debug\net6.0\ref\AmicableNumber.dll

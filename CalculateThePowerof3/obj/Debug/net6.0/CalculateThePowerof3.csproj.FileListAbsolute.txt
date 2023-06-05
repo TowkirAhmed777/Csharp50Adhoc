@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\bin\Debug\net6.0\CalculateThePowerof3.exe
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\bin\Debug\net6.0\CalculateThePowerof3.deps.json
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\bin\Debug\net6.0\CalculateThePowerof3.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\bin\Debug\net6.0\CalculateThePowerof3.dll
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\bin\Debug\net6.0\CalculateThePowerof3.pdb
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\obj\Debug\net6.0\CalculateThePowerof3.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\obj\Debug\net6.0\CalculateThePowerof3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\obj\Debug\net6.0\CalculateThePowerof3.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\obj\Debug\net6.0\CalculateThePowerof3.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\obj\Debug\net6.0\CalculateThePowerof3.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\obj\Debug\net6.0\CalculateThePowerof3.dll
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\obj\Debug\net6.0\refint\CalculateThePowerof3.dll
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\obj\Debug\net6.0\CalculateThePowerof3.pdb
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\obj\Debug\net6.0\CalculateThePowerof3.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\CalculateThePowerof3\obj\Debug\net6.0\ref\CalculateThePowerof3.dll

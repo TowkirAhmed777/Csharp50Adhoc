@@ -1,0 +1,15 @@
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\bin\Debug\net6.0\sqrtNumber.exe
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\bin\Debug\net6.0\sqrtNumber.deps.json
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\bin\Debug\net6.0\sqrtNumber.runtimeconfig.json
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\bin\Debug\net6.0\sqrtNumber.dll
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\bin\Debug\net6.0\sqrtNumber.pdb
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\obj\Debug\net6.0\sqrtNumber.csproj.AssemblyReference.cache
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\obj\Debug\net6.0\sqrtNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\obj\Debug\net6.0\sqrtNumber.AssemblyInfoInputs.cache
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\obj\Debug\net6.0\sqrtNumber.AssemblyInfo.cs
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\obj\Debug\net6.0\sqrtNumber.csproj.CoreCompileInputs.cache
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\obj\Debug\net6.0\sqrtNumber.dll
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\obj\Debug\net6.0\refint\sqrtNumber.dll
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\obj\Debug\net6.0\sqrtNumber.pdb
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\obj\Debug\net6.0\sqrtNumber.genruntimeconfig.cache
+C:\Users\Towkir\source\repos\Code_101\sqrtNumber\obj\Debug\net6.0\ref\sqrtNumber.dll
